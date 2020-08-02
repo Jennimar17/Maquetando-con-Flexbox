@@ -25,6 +25,11 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 500px;
+    font-size: 60px;
+    color: blanchedalmond;
 }
 
 header {
@@ -43,14 +48,6 @@ footer {
     background-color: #ffb4a2;
     height: 200px;
     padding-top: 50px;
-}
-
-.container p {
-    text-align: center;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-weight: 500px;
-    font-size: 60px;
-    color: blanchedalmond;
 }
 
 a:link {
